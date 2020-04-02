@@ -1,0 +1,9 @@
+{
+  "name": "yarn2test",
+  "version": "0.1.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "del": "^3.0.0"
+  }
+}
